@@ -1,0 +1,11 @@
+{
+  "name": "interview-prep-skills",
+  "version": "0.1.0",
+  "description": "Build interviewer profiles from LinkedIn data and turn them into Yoodli roleplay personas for interview practice.",
+  "author": {
+    "name": "Lizanne Davis"
+  },
+  "repository": "https://github.com/lizannemarie/interview-prep-skills",
+  "license": "MIT",
+  "keywords": ["interview", "interview-prep", "yoodli", "linkedin"]
+}

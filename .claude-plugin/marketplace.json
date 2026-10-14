@@ -1,0 +1,14 @@
+{
+  "name": "interview-prep-skills",
+  "description": "Interview prep skills for Claude Code",
+  "owner": {
+    "name": "Lizanne Davis"
+  },
+  "plugins": [
+    {
+      "name": "interview-prep-skills",
+      "source": "./",
+      "description": "Build interviewer profiles from LinkedIn data and turn them into Yoodli roleplay personas for interview practice."
+    }
+  ]
+}
