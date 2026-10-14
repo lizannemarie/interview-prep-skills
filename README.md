@@ -28,8 +28,6 @@ claude plugin marketplace add lizannemarie/interview-prep-skills
 claude plugin install interview-prep-skills@interview-prep-skills
 ```
 
-The repository is private, so you need GitHub access to it (for example through `gh auth login`) for the marketplace add to work.
-
 To try it without installing, clone the repo and run `claude --plugin-dir ./interview-prep-skills`.
 
 ## Invoke
